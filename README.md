@@ -3,9 +3,13 @@
 
 ---
 
-🎓 Recién graduado de la **Facultad de Ciencias Físico Matemáticas** con una licenciatura en **Multimedia y Animación Digital**.  
-🧠 Me apasiona el desarrollo web y aplico buenas prácticas en cada proyecto en el que trabajo.  
-🚀 En constante aprendizaje para crecer como profesional y mejorar la calidad de mis desarrollos.
+### 👨‍💻 Sobre mí
+
+- 🎓 Recién graduado de la Facultad de Ciencias Físico Matemáticas (Licenciatura en Multimedia y Animación Digital).
+- 🧠 Apasionado del desarrollo web con enfoque en buenas prácticas y estructura limpia.
+- 🛠️ Más de 1 año de experiencia desarrollando con Laravel, incluyendo prácticas profesionales en **On-Instance**.
+- 🚀 Siempre aprendiendo y mejorando como profesional técnico y creativo.
+
 
 ---
 
