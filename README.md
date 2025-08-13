@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Miguel Trinidad</h1>
+<h3 align="center">Desarrollador web apasionado por crear soluciones funcionales y bien estructuradas</h3>
 
-<!--
-**b9Mike/b9Mike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Recién graduado de la **Facultad de Ciencias Físico Matemáticas** con una licenciatura en **Multimedia y Animación Digital**.  
+🧠 Me apasiona el desarrollo web y aplico buenas prácticas en cada proyecto en el que trabajo.  
+🚀 En constante aprendizaje para crecer como profesional y mejorar la calidad de mis desarrollos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y herramientas que utilizo
+
+- ⚙️ PHP, Laravel  
+- 🌐 JavaScript, node.js, express
+- 🗄️ MySQL / SQL  
+- 💻 C++, C#  
+- 🧰 Git & GitHub  
+- 🎨 HTML, CSS (y familiaridad con frameworks modernos)
+
+---
+
+### 🚀 Proyectos destacados
+
+### 🔗 [Acortador de URLs](https://github.com/b9Mike/URL_Shortener) *(Laravel)*
+Aplicación web para acortar enlaces largos utilizando rutas personalizadas y redireccionamiento dinámico.
+
+### 🧑‍🏫 [Backend para sistema de asesorías académicas](https://github.com/b9Mike/Programa-Registro-de-Horas-SS) *(Node.js y Express)*
+Backend RESTful creado para el Departamento de Asesorías de la Facultad, diseñado para gestionar sesiones de asesoramiento y llevar seguimiento de la asistencia de los asesores. Incluye endpoints para usuarios, sesiones y reportes básicos.
+
+### 📋 [Sistema CRUD con PHP Puro (MVC)](https://github.com/b9Mike/MVC-CRUD)
+Proyecto educativo desarrollado desde cero utilizando el patrón de arquitectura MVC.  
+Permite gestionar datos mediante operaciones de creación, lectura, actualización y eliminación (CRUD), sin depender de frameworks externos.
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+- ✉️ **Correo:** *migu31.z.a@gmail.com*
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-trinidad-mart%C3%ADnez-4a0a6a262/)
+
+---
+
+### 🧠 Actualmente...
+
+- Aprendiendo más sobre desarrollo backend con Laravel y buenas prácticas de arquitectura.
+- Abierto a oportunidades de colaboración o proyectos profesionales.
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🙌 ¡Estoy emocionado por lo que viene!
+</p>
