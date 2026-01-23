@@ -7,7 +7,7 @@
 
 - 🎓 Recent graduate from the Faculty of Physical-Mathematical Sciences (Bachelor's in Multimedia and Digital Animation).
 - 🧠 Passionate about web development, with a focus on best practices and clean code.
-- 🛠️ Over 1 year of experience using Laravel, including a professional internship at **On-Instance**.
+- 🛠️ 2+ years of experience using Laravel, including a professional internship at **On-Instance**.
 - 🚀 Always learning and growing as a technical and creative professional.
 
 
